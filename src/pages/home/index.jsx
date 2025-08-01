@@ -484,7 +484,7 @@ function Home() {
                 <span className="hidden sm:inline">
                   Joriy kundagi vazifalarni tozalash
                 </span>
-                <span className="sm:hidden">Kun tozalash</span>
+                <span className="sm:hidden">Barchasini tozalash</span>
               </button>
             </div>
           </>
