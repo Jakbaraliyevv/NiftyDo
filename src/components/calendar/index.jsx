@@ -62,7 +62,7 @@ function Calendar({ selectedDate, onDateChange, onShowArchive }) {
 
   return (
     <div className="mb-4 sm:mb-6">
-      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 sm:gap-0 mb-3 sm:mb-4">
+      <div className="flex  sm:flex-row justify-between items-start sm:items-center gap-2 sm:gap-0 mb-3 sm:mb-4">
         <h2 className="text-lg sm:text-xl font-bold text-gray-800">
           {format(selectedDate, "d MMMM yyyy", { locale: uz })}
         </h2>
