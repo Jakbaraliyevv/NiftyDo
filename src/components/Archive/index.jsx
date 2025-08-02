@@ -18,7 +18,7 @@ function Archive({ tasks, onBack }) {
         <h2 className="text-lg sm:text-xl font-bold text-gray-800">Arxiv</h2>
         <button
           onClick={onBack}
-          className="px-3 py-1 bg-indigo-100 hover:bg-indigo-200 text-indigo-700 rounded-lg text-sm transition-colors w-[40%] sm:w-auto text-center"
+          className="px-3 py-1 bg-indigo-100 hover:bg-indigo-200 text-indigo-700 rounded-lg text-sm transition-colors w-[20%] sm:w-auto text-center"
         >
           Orqaga
         </button>
